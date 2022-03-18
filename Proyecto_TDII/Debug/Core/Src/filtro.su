@@ -1,0 +1,4 @@
+filtro.c:23:9:DCRemove	32	static
+filtro.c:30:9:MeanDiff	24	static
+filtro.c:48:9:LowPassButterworthFilter	24	static
+filtro.c:57:6:detectPulse	32	static

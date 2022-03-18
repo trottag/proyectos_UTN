@@ -1,0 +1,6 @@
+task_app.c:25:6:HAL_GPIO_EXTI_Callback	24	static,ignoring_inline_asm
+task_app.c:33:6:vTaskControl	32	static
+task_app.c:100:6:xLcdTask	24	static
+task_app.c:126:6:vSenderTask	24	static
+task_app.c:172:6:vTaskCount	24	static
+task_app.c:252:6:vTaskBlinky	16	static

@@ -1,0 +1,1 @@
+freertos_idle.c:11:6:vApplicationGetIdleTaskMemory	24	static

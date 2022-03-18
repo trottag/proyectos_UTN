@@ -1,0 +1,14 @@
+max30100_for_stm32_hal.c:22:6:MAX30100_Init	16	static
+max30100_for_stm32_hal.c:29:9:MAX30100_ReadReg	32	static
+max30100_for_stm32_hal.c:36:6:MAX30100_WriteReg	32	static
+max30100_for_stm32_hal.c:41:6:MAX30100_EnableInterrupt	32	static
+max30100_for_stm32_hal.c:46:6:MAX30100_InterruptHandler	16	static
+max30100_for_stm32_hal.c:58:6:MAX30100_SetMode	24	static
+max30100_for_stm32_hal.c:75:6:MAX30100_SetLEDPulseWidth	24	static
+max30100_for_stm32_hal.c:80:6:MAX30100_SetLEDCurrent	16	static
+max30100_for_stm32_hal.c:86:6:MAX30100_ClearFIFO	8	static
+max30100_for_stm32_hal.c:92:6:MAX30100_ReadFIFO	88	static
+max30100_for_stm32_hal.c:105:7:MAX30100_ReadTemperature	24	static
+max30100_for_stm32_hal.c:120:6:MAX30100_Stop	8	static
+max30100_for_stm32_hal.c:126:6:MAX30100_Pause	8	static
+max30100_for_stm32_hal.c:133:6:MAX30100_Resume	8	static

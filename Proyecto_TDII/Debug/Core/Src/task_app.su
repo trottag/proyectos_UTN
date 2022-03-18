@@ -1,0 +1,8 @@
+task_app.c:37:6:xLcdTask	24	static
+task_app.c:70:6:xAdcTask	40	static
+task_app.c:103:6:HAL_ADC_ConvCpltCallback	24	static,ignoring_inline_asm
+task_app.c:113:6:xPulsoTask	56	static
+task_app.c:135:6:vTaskControl	24	static
+task_app.c:185:6:vSenderTask_Temp	24	static
+task_app.c:226:6:vSenderTask_Heart	24	static
+task_app.c:268:6:HAL_GPIO_EXTI_Callback	24	static,ignoring_inline_asm

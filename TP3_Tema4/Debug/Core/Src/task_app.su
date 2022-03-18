@@ -1,0 +1,8 @@
+task_app.c:31:6:xAdcTask	40	static
+task_app.c:78:6:xAlarmTask	16	static
+task_app.c:99:6:xSendTask	24	static
+task_app.c:119:6:xReceiveTask	56	static
+task_app.c:159:6:HAL_UART_TxCpltCallback	24	static,ignoring_inline_asm
+task_app.c:169:6:HAL_UART_RxCpltCallback	24	static,ignoring_inline_asm
+task_app.c:180:6:HAL_ADC_ConvCpltCallback	24	static,ignoring_inline_asm
+task_app.c:191:9:ParseFrame	32	static
